@@ -1,0 +1,16 @@
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /admin?user=
+El usuario ingresó a la ruta: /admin?user=Tim
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /admin?user=a
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /admin?user=Tim
+El usuario ingresó a la ruta: /admin?user=Tim
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /admin?user=Tim
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /admin?user=Tim
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /admin?user=Tim
